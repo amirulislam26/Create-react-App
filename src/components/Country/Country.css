@@ -1,0 +1,21 @@
+.country {
+    margin: 20px;
+    padding: 10px;
+    color: rgb(254, 9, 209);
+    background-color: rgb(14, 241, 222);
+    border: 3px solid rgb(225, 255, 127);
+    border-radius: 15px;
+}
+
+.country img {
+    width: 150px;
+}
+
+.Phone {
+    background-color: rgb(6, 174, 229);
+    color: crimson;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid yellowgreen;
+    border-radius: 10px;
+}

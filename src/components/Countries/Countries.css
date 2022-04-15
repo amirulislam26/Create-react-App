@@ -1,0 +1,17 @@
+.color {
+    color: rgb(11, 226, 246);
+}
+
+.spanColor {
+    color: rgb(113, 11, 236);
+}
+
+.Countries-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+.Background {
+    background-color: rgb(168, 206, 225);
+}

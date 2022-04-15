@@ -1,0 +1,13 @@
+.manu a {
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+.text-color {
+    color: rgb(255, 0, 106);
+    background-color: bisque;
+    border: 3px solid green;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 15px;
+}
